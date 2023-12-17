@@ -1,0 +1,77 @@
+.container-fluid{
+   background-color: darksalmon;
+   text-decoration: rgb(0, 0, 0); 
+   font-size: larger;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-variant:small-caps;
+   color: rgb(225, 26, 119);
+
+}
+.carousel-item{
+    height: 500px;
+    width: 1450px;
+}
+.carousel-caption{
+    width:70%;
+    color: rgb(79, 57, 199);
+    font: size 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+}
+.container2{
+ display:flex;
+ text-transform: uppercase;
+ justify-content: center;
+ align-items: center;
+}
+.contact-section {
+    padding: 20px;}
+  
+  input[type="text"], input[type="email"]
+   {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+.contact-form-box {
+    border: 1px solid #ddd;
+    background-color: #f6f4d2;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.contactme {
+    max-width: 800px;
+    margin: 20px auto;
+}
+.con{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: double;
+    color: brown;
+    text-transform:uppercase;
+}
+.form-signin{
+    background-color: rgb(201, 144, 103);
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 900px;
+}
+.signcontainer{
+ background-image: url(i2.avif);
+}
+
